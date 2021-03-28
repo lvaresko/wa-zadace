@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "ime": "Lucia",
+            "prezime": "Vareško",
+            "godina_studija": "3",
+            "JMBAG": "025468512"
+        },
+        {
+            "ime": "Marta",
+            "prezime": "Martić",
+            "godina_studija": "1",
+            "JMBAG": "242457000"
+        },
+        {
+            "ime": "Ivo",
+            "prezime": "Ivić",
+            "godina_studija": "3",
+            "JMBAG": "005284664"
+        },
+        {
+            "ime": "Pero",
+            "prezime": "Perić",
+            "godina_studija": "2",
+            "JMBAG": "024364881"
+        },
+        {
+            "ime": "Anita",
+            "prezime": "Anić",
+            "godina_studija": "1",
+            "JMBAG": "02248102595"
+        }
+    ]
+}
